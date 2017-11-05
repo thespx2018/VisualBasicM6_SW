@@ -1,0 +1,9 @@
+F:\M6.8_23\InputMaxMin\InputMaxMin\bin\Debug\InputMaxMin.exe
+F:\M6.8_23\InputMaxMin\InputMaxMin\bin\Debug\InputMaxMin.pdb
+F:\M6.8_23\InputMaxMin\InputMaxMin\bin\Debug\InputMaxMin.xml
+F:\M6.8_23\InputMaxMin\InputMaxMin\obj\x86\Debug\InputMax.Form1.resources
+F:\M6.8_23\InputMaxMin\InputMaxMin\obj\x86\Debug\InputMax.Resources.resources
+F:\M6.8_23\InputMaxMin\InputMaxMin\obj\x86\Debug\InputMaxMin.vbproj.GenerateResource.Cache
+F:\M6.8_23\InputMaxMin\InputMaxMin\obj\x86\Debug\InputMaxMin.exe
+F:\M6.8_23\InputMaxMin\InputMaxMin\obj\x86\Debug\InputMaxMin.xml
+F:\M6.8_23\InputMaxMin\InputMaxMin\obj\x86\Debug\InputMaxMin.pdb

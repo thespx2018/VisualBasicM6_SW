@@ -1,0 +1,9 @@
+C:\Users\Com4_108\AppData\Local\Temporary Projects\InputMax\bin\Debug\InputMax.exe
+C:\Users\Com4_108\AppData\Local\Temporary Projects\InputMax\bin\Debug\InputMax.pdb
+C:\Users\Com4_108\AppData\Local\Temporary Projects\InputMax\bin\Debug\InputMax.xml
+C:\Users\Com4_108\AppData\Local\Temporary Projects\InputMax\obj\x86\Debug\InputMax.Form1.resources
+C:\Users\Com4_108\AppData\Local\Temporary Projects\InputMax\obj\x86\Debug\InputMax.Resources.resources
+C:\Users\Com4_108\AppData\Local\Temporary Projects\InputMax\obj\x86\Debug\InputMax.vbproj.GenerateResource.Cache
+C:\Users\Com4_108\AppData\Local\Temporary Projects\InputMax\obj\x86\Debug\InputMax.exe
+C:\Users\Com4_108\AppData\Local\Temporary Projects\InputMax\obj\x86\Debug\InputMax.xml
+C:\Users\Com4_108\AppData\Local\Temporary Projects\InputMax\obj\x86\Debug\InputMax.pdb

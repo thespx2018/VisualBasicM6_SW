@@ -1,0 +1,9 @@
+C:\Users\Com4_108\AppData\Local\Temporary Projects\midterm1\bin\Debug\midterm1.exe
+C:\Users\Com4_108\AppData\Local\Temporary Projects\midterm1\bin\Debug\midterm1.pdb
+C:\Users\Com4_108\AppData\Local\Temporary Projects\midterm1\bin\Debug\midterm1.xml
+C:\Users\Com4_108\AppData\Local\Temporary Projects\midterm1\obj\x86\Debug\midterm1.Form1.resources
+C:\Users\Com4_108\AppData\Local\Temporary Projects\midterm1\obj\x86\Debug\midterm1.Resources.resources
+C:\Users\Com4_108\AppData\Local\Temporary Projects\midterm1\obj\x86\Debug\midterm1.vbproj.GenerateResource.Cache
+C:\Users\Com4_108\AppData\Local\Temporary Projects\midterm1\obj\x86\Debug\midterm1.exe
+C:\Users\Com4_108\AppData\Local\Temporary Projects\midterm1\obj\x86\Debug\midterm1.xml
+C:\Users\Com4_108\AppData\Local\Temporary Projects\midterm1\obj\x86\Debug\midterm1.pdb

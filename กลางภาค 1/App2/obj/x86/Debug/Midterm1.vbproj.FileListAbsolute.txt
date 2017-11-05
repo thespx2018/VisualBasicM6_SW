@@ -1,0 +1,9 @@
+F:\M6.8_23\midterm1\App2\bin\Debug\midterm3.exe
+F:\M6.8_23\midterm1\App2\bin\Debug\midterm3.pdb
+F:\M6.8_23\midterm1\App2\bin\Debug\midterm3.xml
+F:\M6.8_23\midterm1\App2\obj\x86\Debug\midterm3.Form1.resources
+F:\M6.8_23\midterm1\App2\obj\x86\Debug\midterm3.Resources.resources
+F:\M6.8_23\midterm1\App2\obj\x86\Debug\Midterm1.vbproj.GenerateResource.Cache
+F:\M6.8_23\midterm1\App2\obj\x86\Debug\midterm3.exe
+F:\M6.8_23\midterm1\App2\obj\x86\Debug\midterm3.xml
+F:\M6.8_23\midterm1\App2\obj\x86\Debug\midterm3.pdb

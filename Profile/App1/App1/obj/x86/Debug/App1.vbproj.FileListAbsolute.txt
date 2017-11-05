@@ -1,0 +1,15 @@
+C:\Users\Com4_108\AppData\Local\Temporary Projects\App1\bin\Debug\App1.exe
+C:\Users\Com4_108\AppData\Local\Temporary Projects\App1\bin\Debug\App1.pdb
+C:\Users\Com4_108\AppData\Local\Temporary Projects\App1\bin\Debug\App1.xml
+C:\Users\Com4_108\AppData\Local\Temporary Projects\App1\obj\x86\Debug\App1.Form1.resources
+C:\Users\Com4_108\AppData\Local\Temporary Projects\App1\obj\x86\Debug\App1.Resources.resources
+C:\Users\Com4_108\AppData\Local\Temporary Projects\App1\obj\x86\Debug\App1.vbproj.GenerateResource.Cache
+C:\Users\Com4_108\AppData\Local\Temporary Projects\App1\obj\x86\Debug\App1.exe
+C:\Users\Com4_108\AppData\Local\Temporary Projects\App1\obj\x86\Debug\App1.xml
+C:\Users\Com4_108\AppData\Local\Temporary Projects\App1\obj\x86\Debug\App1.pdb
+F:\M6.8_23\App1\App1\obj\x86\Debug\App1.exe
+F:\M6.8_23\App1\App1\obj\x86\Debug\App1.xml
+F:\M6.8_23\App1\App1\obj\x86\Debug\App1.pdb
+F:\M6.8_23\Program1\App1\App1\obj\x86\Debug\App1.exe
+F:\M6.8_23\Program1\App1\App1\obj\x86\Debug\App1.xml
+F:\M6.8_23\Program1\App1\App1\obj\x86\Debug\App1.pdb

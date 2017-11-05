@@ -1,0 +1,9 @@
+F:\M6.8_23\CarCalculator\CarCalculator\bin\Debug\CarCalculator.exe
+F:\M6.8_23\CarCalculator\CarCalculator\bin\Debug\CarCalculator.pdb
+F:\M6.8_23\CarCalculator\CarCalculator\bin\Debug\CarCalculator.xml
+F:\M6.8_23\CarCalculator\CarCalculator\obj\x86\Debug\CarCalculator.Form1.resources
+F:\M6.8_23\CarCalculator\CarCalculator\obj\x86\Debug\CarCalculator.Resources.resources
+F:\M6.8_23\CarCalculator\CarCalculator\obj\x86\Debug\CarCalculator.vbproj.GenerateResource.Cache
+F:\M6.8_23\CarCalculator\CarCalculator\obj\x86\Debug\CarCalculator.exe
+F:\M6.8_23\CarCalculator\CarCalculator\obj\x86\Debug\CarCalculator.xml
+F:\M6.8_23\CarCalculator\CarCalculator\obj\x86\Debug\CarCalculator.pdb

@@ -1,0 +1,9 @@
+C:\Users\Com4_108\AppData\Local\Temporary Projects\Powercal\bin\Debug\Powercal.exe
+C:\Users\Com4_108\AppData\Local\Temporary Projects\Powercal\bin\Debug\Powercal.pdb
+C:\Users\Com4_108\AppData\Local\Temporary Projects\Powercal\bin\Debug\Powercal.xml
+C:\Users\Com4_108\AppData\Local\Temporary Projects\Powercal\obj\x86\Debug\Powercal.Form1.resources
+C:\Users\Com4_108\AppData\Local\Temporary Projects\Powercal\obj\x86\Debug\Powercal.Resources.resources
+C:\Users\Com4_108\AppData\Local\Temporary Projects\Powercal\obj\x86\Debug\Powercal.vbproj.GenerateResource.Cache
+C:\Users\Com4_108\AppData\Local\Temporary Projects\Powercal\obj\x86\Debug\Powercal.exe
+C:\Users\Com4_108\AppData\Local\Temporary Projects\Powercal\obj\x86\Debug\Powercal.xml
+C:\Users\Com4_108\AppData\Local\Temporary Projects\Powercal\obj\x86\Debug\Powercal.pdb

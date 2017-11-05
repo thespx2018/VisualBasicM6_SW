@@ -1,0 +1,27 @@
+C:\Users\Com4_108\AppData\Local\Temporary Projects\App2\obj\x86\Debug\App2.Form1.resources
+C:\Users\Com4_108\AppData\Local\Temporary Projects\App2\obj\x86\Debug\App2.Resources.resources
+C:\Users\Com4_108\AppData\Local\Temporary Projects\App2\obj\x86\Debug\App2.vbproj.GenerateResource.Cache
+C:\Users\Com4_108\AppData\Local\Temporary Projects\App2\bin\Debug\App2.exe
+C:\Users\Com4_108\AppData\Local\Temporary Projects\App2\bin\Debug\App2.pdb
+C:\Users\Com4_108\AppData\Local\Temporary Projects\App2\bin\Debug\App2.xml
+C:\Users\Com4_108\AppData\Local\Temporary Projects\App2\obj\x86\Debug\App2.exe
+C:\Users\Com4_108\AppData\Local\Temporary Projects\App2\obj\x86\Debug\App2.xml
+C:\Users\Com4_108\AppData\Local\Temporary Projects\App2\obj\x86\Debug\App2.pdb
+F:\M6.8_23\App2\App2\obj\x86\Debug\App2.exe
+F:\M6.8_23\App2\App2\obj\x86\Debug\App2.xml
+F:\M6.8_23\App2\App2\obj\x86\Debug\App2.pdb
+F:\M6.8_23\App2\App2\bin\Debug\App2.exe
+F:\M6.8_23\App2\App2\bin\Debug\App2.pdb
+F:\M6.8_23\App2\App2\bin\Debug\App2.xml
+F:\M6.8_23\App2\App2\obj\x86\Debug\App2.Form1.resources
+F:\M6.8_23\App2\App2\obj\x86\Debug\App2.Resources.resources
+F:\M6.8_23\App2\App2\obj\x86\Debug\App2.vbproj.GenerateResource.Cache
+F:\M6.8_23\Calculator\App2\obj\x86\Debug\App2.exe
+F:\M6.8_23\Calculator\App2\obj\x86\Debug\App2.xml
+F:\M6.8_23\Calculator\App2\obj\x86\Debug\App2.pdb
+F:\M6.8_23\Calculator\App2\obj\x86\Debug\App2.Form1.resources
+F:\M6.8_23\Calculator\App2\obj\x86\Debug\App2.Resources.resources
+F:\M6.8_23\Calculator\App2\obj\x86\Debug\App2.vbproj.GenerateResource.Cache
+F:\M6.8_23\Calculator\App2\bin\Debug\App2.exe
+F:\M6.8_23\Calculator\App2\bin\Debug\App2.pdb
+F:\M6.8_23\Calculator\App2\bin\Debug\App2.xml

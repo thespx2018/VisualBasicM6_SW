@@ -1,0 +1,12 @@
+C:\Users\Com4_108\AppData\Local\Temporary Projects\BookCalculator\bin\Debug\BookCalculator.exe
+C:\Users\Com4_108\AppData\Local\Temporary Projects\BookCalculator\bin\Debug\BookCalculator.pdb
+C:\Users\Com4_108\AppData\Local\Temporary Projects\BookCalculator\bin\Debug\BookCalculator.xml
+C:\Users\Com4_108\AppData\Local\Temporary Projects\BookCalculator\obj\x86\Debug\BookCalculator.Form1.resources
+C:\Users\Com4_108\AppData\Local\Temporary Projects\BookCalculator\obj\x86\Debug\BookCalculator.Resources.resources
+C:\Users\Com4_108\AppData\Local\Temporary Projects\BookCalculator\obj\x86\Debug\BookCalculator.vbproj.GenerateResource.Cache
+C:\Users\Com4_108\AppData\Local\Temporary Projects\BookCalculator\obj\x86\Debug\BookCalculator.exe
+C:\Users\Com4_108\AppData\Local\Temporary Projects\BookCalculator\obj\x86\Debug\BookCalculator.xml
+C:\Users\Com4_108\AppData\Local\Temporary Projects\BookCalculator\obj\x86\Debug\BookCalculator.pdb
+F:\M6.8_23\BookCalculator\BookCalculator\obj\x86\Debug\BookCalculator.exe
+F:\M6.8_23\BookCalculator\BookCalculator\obj\x86\Debug\BookCalculator.xml
+F:\M6.8_23\BookCalculator\BookCalculator\obj\x86\Debug\BookCalculator.pdb

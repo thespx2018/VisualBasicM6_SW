@@ -1,0 +1,9 @@
+F:\M6.8_23\midterm4\midterm4\obj\x86\Debug\midterm4.Form1.resources
+F:\M6.8_23\midterm4\midterm4\obj\x86\Debug\midterm4.Resources.resources
+F:\M6.8_23\midterm4\midterm4\obj\x86\Debug\midterm4.vbproj.GenerateResource.Cache
+F:\M6.8_23\midterm4\midterm4\bin\Debug\midterm4.exe
+F:\M6.8_23\midterm4\midterm4\bin\Debug\midterm4.pdb
+F:\M6.8_23\midterm4\midterm4\bin\Debug\midterm4.xml
+F:\M6.8_23\midterm4\midterm4\obj\x86\Debug\midterm4.exe
+F:\M6.8_23\midterm4\midterm4\obj\x86\Debug\midterm4.xml
+F:\M6.8_23\midterm4\midterm4\obj\x86\Debug\midterm4.pdb

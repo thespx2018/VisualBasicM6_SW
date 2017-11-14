@@ -6,13 +6,13 @@
 
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
         Dim Name, Lastname, Address, School, SClass, Phonenum, email As String
-        Name = BoxFName.Text
-        Lastname = BoxLName.Text
-        Address = BoxAddress.Text
-        School = BoxSchool.Text
-        SClass = BoxSclass.Text
-        Phonenum = BoxPhonenum.Text
-        email = Boxemail.Text
+        Name = Textbox1.Text
+        Lastname = Textbox2.Text
+        Address = Textbox3.Text
+        School = Textbox4.Text
+        SClass = Textbox5.Text
+        Phonenum = Textbox6.Text
+        email = Textbox7.Text
         MsgBox("ชื่อ " & Name & vbNewLine & "นามสกุล " & Lastname & vbNewLine & "ที่อยู่ " & Address & vbNewLine & "โรงเรียน " & School & vbNewLine & "ชั้นเรียน " & SClass & vbNewLine & "เบอร์โทร " & Phonenum & vbNewLine & "E-mail " & email & vbNewLine)
     End Sub
 

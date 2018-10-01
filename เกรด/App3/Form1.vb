@@ -8,16 +8,16 @@
         Dim Grade As Integer
         Grade = Box1.Text
         If Grade >= 80 And Grade <= 100 Then
-            MsgBox("ท่านได้เกรด 4 ")
+            MsgBox("ท่านได้เกรด 4")
         ElseIf Grade >= 101 Then
-            MsgBox("กรุณาใส่ 1 - 100 ")
+            MsgBox("กรุณาใส่ 1 - 100")
         ElseIf Grade >= 75 And Grade <= 79 Then
             MsgBox("ท่านได้เกรด 3.5 ")
 
         ElseIf Grade >= 70 And Grade <= 74 Then
-            MsgBox("ท่านได้เกรด 3 ")
+            MsgBox("ท่านได้เกรด 3")
         ElseIf Grade >= 65 And Grade <= 69 Then
-            MsgBox("ท่านได้เกรด 2.5 ")
+            MsgBox("ท่านได้เกรด 2.5")
         ElseIf Grade >= 60 And Grade <= 64 Then
             MsgBox("ท่านได้เกรด 2 ")
         ElseIf Grade >= 56 And Grade <= 59 Then

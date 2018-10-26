@@ -24,6 +24,6 @@
         sum3 = Num1 * Num2 * Num3 * Num4 * Num5 * Num6 * Num7 * Num8 * Num9 * Num00
         sum4 = Num1 / Num2 / Num3 / Num4 / Num5 / Num6 / Num7 / Num8 / Num9 / Num00
         sum5 = (sum1 + sum2 + sum3) / 10
-        MsgBox("ผลบวก = " & sum1 & vbNewLine & "ผลลบ = " & sum2 & vbNewLine & "ผลคูณ = " & sum3 & vbNewLine & "ผลหาร =" & sum4 & vbNewLine & "ค่าเฉลี่ย = " & sum5)
+        MsgBox(" ผลบวก = " & sum1 & vbNewLine & " ผลลบ = " & sum2 & vbNewLine & "ผลคูณ = " & sum3 & vbNewLine & "ผลหาร =" & sum4 & vbNewLine & "ค่าเฉลี่ย = " & sum5)
     End Sub
 End Class
